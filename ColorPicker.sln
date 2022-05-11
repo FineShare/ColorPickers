@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPickers", "ColorPickers\ColorPickers.csproj", "{58B217A6-8A97-43DB-9534-2B8B16B68CC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{1A35B691-84F0-4F69-8A8D-B34EF7682A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorLibrary", "Library\ColorLibrary\ColorLibrary.csproj", "{B8CAE579-5E3F-4FC9-8E3E-61C88093EAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B217A6-8A97-43DB-9534-2B8B16B68CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B217A6-8A97-43DB-9534-2B8B16B68CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B217A6-8A97-43DB-9534-2B8B16B68CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B217A6-8A97-43DB-9534-2B8B16B68CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CAE579-5E3F-4FC9-8E3E-61C88093EAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CAE579-5E3F-4FC9-8E3E-61C88093EAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CAE579-5E3F-4FC9-8E3E-61C88093EAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CAE579-5E3F-4FC9-8E3E-61C88093EAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8CAE579-5E3F-4FC9-8E3E-61C88093EAED} = {1A35B691-84F0-4F69-8A8D-B34EF7682A1E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FAA5D8F-B5BC-43A2-8B44-5766982966E6}
+	EndGlobalSection
+EndGlobal

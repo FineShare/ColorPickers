@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOZqhK7Fy/UWLP+DJNGWFRzJFJaV6cFZ///Wa5qk6UTGahVmTsFks54Z2qf+NE8tiT6XA5RaduEPyGX6fltxeA==",
+  "success": false,
+  "projectFilePath": "F:\\ColorPicker\\ColorPicker\\Library\\ColorPicker\\ColorPicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jared\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jared\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jared\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "找不到项目“F:\\ColorPicker\\ColorPicker\\Library\\Theme.Default\\Theme.Default.csproj”。请检查项目引用是否有效以及项目文件是否存在。",
+      "libraryId": "F:\\ColorPicker\\ColorPicker\\Library\\Theme.Default\\Theme.Default.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
